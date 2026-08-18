@@ -1,0 +1,31 @@
+title: "Articles"
+company_name: "Lippy Robotics"
+description: "News, updates, and writing from Lippy Robotics — makers of Scout."
+url: "https://patevan9.github.io"
+baseurl: "/lippy-articles"
+main_site_url: "https://patevan9.github.io/lippyrobotics.github.io"
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "article"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# No analytics wired up yet — add later if desired, separate decision from the main site.
+
+exclude:
+  - README.md
