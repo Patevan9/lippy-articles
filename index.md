@@ -3,9 +3,9 @@ layout: default
 title: Articles
 ---
 <div class="hero">
-  <span class="hero-eyebrow">Lippy Robotics</span>
+  <span class="hero-eyebrow">Lippy Robotics Labs</span>
   <h1 class="hero-title">Articles &amp; <em>Updates</em></h1>
-  <p class="hero-sub">News, notes, and writing from the team behind Scout.</p>
+  <p class="hero-sub">News, notes, and writing from the team behind Tolliver.</p>
 </div>
 
 <div class="articles-wrap">
