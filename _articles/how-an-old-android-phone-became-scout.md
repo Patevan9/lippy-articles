@@ -4,6 +4,8 @@ description: "How a spare Galaxy A32, a little robot kit, and a lot of questions
 date: 2026-08-18
 ---
 
+> *Since this was written, the companion has been renamed — first to Patevan, then to Tolliver.*
+
 How a spare Galaxy A32, a little robot kit, and a lot of questions became something much bigger.
 
 After my mother passed away, I ended up with a spare cellphone, a Samsung Galaxy A32.
